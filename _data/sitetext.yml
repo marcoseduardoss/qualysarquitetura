@@ -11,8 +11,8 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Bem vindo a Qualys Arquiteura!
-    text: Parceiros competentes para projetos exigentes!
+    title: Bem vindo!
+    text: Qualys Arquiteura!
     button: Leia Mais
     buttonlink: "#services"
 
